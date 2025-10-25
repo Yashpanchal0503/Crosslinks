@@ -8,7 +8,7 @@ import AboutUs from "./Components/AboutUs";
 import Events from "./Components/Events";
 import Gallery from "./Components/Gallery";
 import WordsFromCore from "./Components/WordsFromCore";
-import ContactUs from "./Components/contactUs";
+import ContactUs from "./Components/ContactUs";
 
 gsap.registerPlugin(ScrollTrigger);
 
